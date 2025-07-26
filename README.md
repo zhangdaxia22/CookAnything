@@ -1,2 +1,2 @@
 # CookAnything
-CookAnything: A Framework for Flexible and Consistent Multi-Step Recipe Image Generation
+CookAnything: A Framework for Flexible and Consistent Multi-Step Recipe Image Generation (MM'25)
