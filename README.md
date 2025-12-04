@@ -40,7 +40,7 @@ Ensure that pipeline_flux_region.py and infer.py are located in your working dir
 ```python
 python infer.py
 ```
-### 3. CookingAgent
+### 4. CookingAgent
 We utilize GPT-4o as Cooking Agent. The prompt is 
 ``` text
 You are an expert in describing step-by-step food preparation for recipe images. I will provide a recipe, and your task isto describe what the food should look like in each step's corresponding image.
