@@ -2,6 +2,8 @@
 
 **CookAnything: A Framework for Flexible and Consistent Multi-Step Recipe Image Generation** *Accepted at ACM Multimedia 2025 (MM'25)*
 
+[**arXiv**](http://arxiv.org/abs/2512.03540) | [**Project Page**](https://zhangdaxia22.github.io/CookAnything/)
+
 ![Model Architecture](images/model.png)
 
 ## Inference
