@@ -51,3 +51,4 @@ Follow these rules:
 4. Exclude future ingredients: Do not mention ingredients or elements that only appear in later steps (e.g., if noodlesare added in the next step, do not say "ready to serve with noodles" in the current step).
 5. Maintain descriptive consistency: Use consistent wording for each ingredient across steps. If an ingredient isdescribed as “thinly sliced cucumber” in Step 1, continue using the same shape and adjective (e.g., “thinly slicedcucumber") in later steps unless its form or condition has changed through cooking or preparation.
 ```
+If you have any questions about CookAnything, please contact zhangrx22@mails.jlu.edu.cn.
